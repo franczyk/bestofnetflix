@@ -50,4 +50,3 @@ def best_of_netflix(event, context):
 
     return response
 
-best_of_netflix("", "")
